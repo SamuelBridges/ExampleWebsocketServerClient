@@ -1,0 +1,16 @@
+C:\Users\Sam\source\repos\ExampleWebsocketServerClient\ExampleWebsocket-Server\ExampleWebsocket-Server\bin\Debug\net5.0\ExampleWebsocket-Server.exe
+C:\Users\Sam\source\repos\ExampleWebsocketServerClient\ExampleWebsocket-Server\ExampleWebsocket-Server\bin\Debug\net5.0\ExampleWebsocket-Server.deps.json
+C:\Users\Sam\source\repos\ExampleWebsocketServerClient\ExampleWebsocket-Server\ExampleWebsocket-Server\bin\Debug\net5.0\ExampleWebsocket-Server.runtimeconfig.json
+C:\Users\Sam\source\repos\ExampleWebsocketServerClient\ExampleWebsocket-Server\ExampleWebsocket-Server\bin\Debug\net5.0\ExampleWebsocket-Server.runtimeconfig.dev.json
+C:\Users\Sam\source\repos\ExampleWebsocketServerClient\ExampleWebsocket-Server\ExampleWebsocket-Server\bin\Debug\net5.0\ExampleWebsocket-Server.dll
+C:\Users\Sam\source\repos\ExampleWebsocketServerClient\ExampleWebsocket-Server\ExampleWebsocket-Server\bin\Debug\net5.0\ref\ExampleWebsocket-Server.dll
+C:\Users\Sam\source\repos\ExampleWebsocketServerClient\ExampleWebsocket-Server\ExampleWebsocket-Server\bin\Debug\net5.0\ExampleWebsocket-Server.pdb
+C:\Users\Sam\source\repos\ExampleWebsocketServerClient\ExampleWebsocket-Server\ExampleWebsocket-Server\obj\Debug\net5.0\ExampleWebsocket-Server.csproj.AssemblyReference.cache
+C:\Users\Sam\source\repos\ExampleWebsocketServerClient\ExampleWebsocket-Server\ExampleWebsocket-Server\obj\Debug\net5.0\ExampleWebsocket-Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\source\repos\ExampleWebsocketServerClient\ExampleWebsocket-Server\ExampleWebsocket-Server\obj\Debug\net5.0\ExampleWebsocket-Server.AssemblyInfoInputs.cache
+C:\Users\Sam\source\repos\ExampleWebsocketServerClient\ExampleWebsocket-Server\ExampleWebsocket-Server\obj\Debug\net5.0\ExampleWebsocket-Server.AssemblyInfo.cs
+C:\Users\Sam\source\repos\ExampleWebsocketServerClient\ExampleWebsocket-Server\ExampleWebsocket-Server\obj\Debug\net5.0\ExampleWebsocket-Server.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\ExampleWebsocketServerClient\ExampleWebsocket-Server\ExampleWebsocket-Server\obj\Debug\net5.0\ExampleWebsocket-Server.dll
+C:\Users\Sam\source\repos\ExampleWebsocketServerClient\ExampleWebsocket-Server\ExampleWebsocket-Server\obj\Debug\net5.0\ref\ExampleWebsocket-Server.dll
+C:\Users\Sam\source\repos\ExampleWebsocketServerClient\ExampleWebsocket-Server\ExampleWebsocket-Server\obj\Debug\net5.0\ExampleWebsocket-Server.pdb
+C:\Users\Sam\source\repos\ExampleWebsocketServerClient\ExampleWebsocket-Server\ExampleWebsocket-Server\obj\Debug\net5.0\ExampleWebsocket-Server.genruntimeconfig.cache

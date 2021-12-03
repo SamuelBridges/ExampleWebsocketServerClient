@@ -9,7 +9,7 @@ namespace ExampleWebsocket_Server
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            StartServer();
         }
 
         public static void StartServer()
